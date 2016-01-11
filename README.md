@@ -1,8 +1,10 @@
 # About Heist-Apple-II
 
-This repo contains 6502 assembler source for an unfinished game **Heist**. This was developed in 1983-1984 by Darin Young, Dennis Henry, and Chuck Shnider. The code is an accompaniment to my January, 2016 Cocoaheads talk: *A look back at Apple II Gamedev*.
+This repo contains 6502 assembler source for an unfinished Apple II game **Heist**. 
 
-Heist was to be a platformer-style game where the main character is a theif who breaks into a bank, steals loot, and makes an escape. Only 2 of 4 planned levels were ever developed.
+Heist was developed in 1983-1984 by Darin Young, Dennis Henry, and Chuck Shnider. The code is presented here as an accompaniment to my January, 2016 Cocoaheads talk: *A look back at Apple II Gamedev*.
+
+Heist was to be a platformer-style game where the main character is a thief who breaks into a bank, steals loot, and makes an escape. Only 2 of 4 planned levels were ever developed.
 
 ## Heist Level I
 ![Level I](/img/heist1.png "Heist Level I")
